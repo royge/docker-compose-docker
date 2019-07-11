@@ -1,2 +1,3 @@
 # docker-compose-docker
-docker-compose docker container
+
+docker-compose `1.24.1` docker container
